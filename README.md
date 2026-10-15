@@ -36,7 +36,7 @@
 ## Запуск в Google Colab
 
 1. Откройте `notebooks/01_vk_full_analysis_colab.ipynb` в Colab.
-2. Загрузите исходный `vk_filtered_posts_metadata.csv` с Kaggle.
+2. Загрузите исходный `vk_filtered_posts_metadata.csv` с Kaggle ([Ссылка](https://www.kaggle.com/datasets/nooruzbekt/vk-social-media-posts-metadata)).
 3. Выполните ячейки сверху вниз.
 4. Скачайте папку `results` и файл `vk_with_sentiment.csv`.
 
